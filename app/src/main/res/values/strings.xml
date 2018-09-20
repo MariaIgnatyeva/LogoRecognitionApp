@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Logo Recognition</string>
+    <string name="action_settings">Send photo to developpers</string>
+    <string name="search_hint">Search brand names</string>
+    <string name="search_title">Search</string>
+    <string name="favoutites">Favourites</string>
+    <string name="recent">Recent</string>
+    <string name="dialog_title">Choose photo</string>
+</resources>
