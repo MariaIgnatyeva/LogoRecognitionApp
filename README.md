@@ -1,3 +1,1 @@
-# LogoRecognitionApp# LogoRecognitionApp
-# LogoRecognitionApp
 # LogoRecognitionApp
